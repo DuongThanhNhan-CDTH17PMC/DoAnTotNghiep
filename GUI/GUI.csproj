@@ -109,6 +109,7 @@
     <Content Include="css\style.css" />
     <Content Include="DangNhap.aspx" />
     <Content Include="favicon.png" />
+    <Content Include="Home_NguoiDung.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="QL_Video.aspx" />
     <Content Include="Home.aspx" />
@@ -279,6 +280,13 @@
     </Compile>
     <Compile Include="DangNhap.aspx.designer.cs">
       <DependentUpon>DangNhap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Home_NguoiDung.aspx.cs">
+      <DependentUpon>Home_NguoiDung.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home_NguoiDung.aspx.designer.cs">
+      <DependentUpon>Home_NguoiDung.aspx</DependentUpon>
     </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>

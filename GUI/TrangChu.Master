@@ -17,7 +17,7 @@
     <link rel="stylesheet" type="text/css" href="libs/owlcarousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
-     <meta charset="utf-8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
@@ -97,14 +97,14 @@
     </nav>
 </header>
 <body>
-    <form id="form1" runat="server">
 
-        <div class="f-content">
-            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-            </asp:ContentPlaceHolder>
 
-        </div>
+    <div class="f-content">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
 
-    </form>
+    </div>
+
+
 </body>
 </html>

@@ -215,7 +215,7 @@
                             <h2 class="fvv-content-title">Video Mới Nhất</h2>
                             <div class="fvv-content-body">
                                 <div id="new-post-slide" class="owl-carousel new-post-slide slide-style">
-                                    <%--<div class="item">
+                                    <div class="item">
 										<div class="new-post-item">
 											<div class="new-post-item-inner">
 												<a href="/">
@@ -229,8 +229,8 @@
 												</a>
 											</div>
 										</div>
-									</div>--%>
-                                    <%--<div class="item">
+									</div>
+                                    <div class="item">
 										<div class="new-post-item">
 											<div class="new-post-item-inner">
 												<a href="/">
@@ -244,8 +244,8 @@
 												</a>
 											</div>
 										</div>
-									</div>--%>
-                                    <%--<div class="item">
+									</div>
+                                    <div class="item">
 										<div class="new-post-item">
 											<div class="new-post-item-inner">
 												<a href="/">
@@ -259,7 +259,7 @@
 												</a>
 											</div>
 										</div>
-									</div>--%>
+									</div>
                                 </div>
                             </div>
                         </div>
@@ -268,7 +268,7 @@
                             <h2 class="fvv-content-title">Thịnh hành</h2>
                             <div class="fvv-content-body">
                                 <div id="cate-post-slide" class="owl-carousel cate-post-slide slide-style">
-                                    <%--	<div class="item">
+                                    	<div class="item">
 										<div class="cate-post-item">
 											<div class="cate-post-item-inner">
 												<a href="/">
@@ -357,7 +357,7 @@
 												</a>
 											</div>
 										</div>
-									</div>--%>
+									</div>
                                 </div>
                             </div>
                         </div>
@@ -366,7 +366,7 @@
                             <h2 class="fvv-content-title">Âm nhạc</h2>
                             <div class="fvv-content-body">
                                 <div id="cate-post-slide-2" class="owl-carousel cate-post-slide slide-style">
-                                    <%--<div class="item">
+                                    <div class="item">
 										<div class="cate-post-item">
 											<div class="cate-post-item-inner">
 												<a href="/">
@@ -455,7 +455,7 @@
 												</a>
 											</div>
 										</div>
-									</div>--%>
+									</div>
                                 </div>
                             </div>
                         </div>
@@ -464,7 +464,7 @@
                             <h2 class="fvv-content-title">Phim</h2>
                             <div class="fvv-content-body">
                                 <div id="cate-post-slide-2" class="owl-carousel cate-post-slide slide-style">
-                                    <%--	<div class="item">
+                                    	<div class="item">
 										<div class="cate-post-item">
 											<div class="cate-post-item-inner">
 												<a href="/">
@@ -553,7 +553,7 @@
 												</a>
 											</div>
 										</div>
-									</div>--%>
+									</div>
                                 </div>
                             </div>
                         </div>
@@ -562,7 +562,7 @@
                             <h2 class="fvv-content-title">Trẻ em</h2>
                             <div class="fvv-content-body">
                                 <div id="cate-post-slide-2" class="owl-carousel cate-post-slide slide-style">
-                                    <%--	<div class="item">
+                                    	<div class="item">
 										<div class="cate-post-item">
 											<div class="cate-post-item-inner">
 												<a href="/">
@@ -651,7 +651,7 @@
 												</a>
 											</div>
 										</div>
-									</div>--%>
+									</div>
                                 </div>
                             </div>
                         </div>

@@ -13,6 +13,8 @@ namespace BUS
         {
             return LoaiVideoDAO.LayDSLoaiVideo();
         }
+
+
         //admin
         public static DataTable LaytatcaLoaiVideo()
         {

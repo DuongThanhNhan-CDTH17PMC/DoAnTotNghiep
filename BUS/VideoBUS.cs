@@ -20,6 +20,10 @@ namespace BUS
         {
             return VideoDAO.LayDSVideo();
         }
+        //public static List<VideoDTO> LayVideoTheoLoai(string maLoaiVideo)
+        //{
+        //    return LoaiVideoDAO.LayLoaiVideo(maLoaiVideo);
+        //}
 
         public static DataRow LayVideo(VideoDTO maVideo)
         {

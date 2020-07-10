@@ -148,5 +148,23 @@ namespace GUI
                 }
             }
         }
+        protected void grvDSVideo_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            grvDSVideo.PageIndex = e.NewPageIndex;
+            int trang_thu = e.NewPageIndex;
+            int sodong = grvDSVideo.PageSize;
+            stt = trang_thu * sodong + 1;
+            this.bindgrikview();
+        }
+        public void bindgrikview()
+        {
+            grvDSVideo.DataSource = VideoBUS.LayDSVideo();
+            grvDSVideo.DataBind();
+        }
+        public string get_stt()
+        {
+            return Convert.ToString(stt++);
+        }
+        int stt = 1;
     }
 }

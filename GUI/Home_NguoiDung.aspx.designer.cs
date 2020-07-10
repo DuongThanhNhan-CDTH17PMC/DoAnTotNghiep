@@ -10,7 +10,7 @@
 namespace GUI {
     
     
-    public partial class Home_NguoiDung {
+    public partial class Home_NguoiDung1 {
         
         /// <summary>
         /// formhome control.
@@ -19,15 +19,15 @@ namespace GUI {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        
+        protected global::System.Web.UI.HtmlControls.HtmlForm formhome;
         
         /// <summary>
-        /// rpt_cart control.
+        /// rptVideo control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        
+        protected global::System.Web.UI.WebControls.Repeater rptVideo;
     }
 }

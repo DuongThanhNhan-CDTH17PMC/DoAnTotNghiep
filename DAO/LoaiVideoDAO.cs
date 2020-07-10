@@ -26,7 +26,21 @@ namespace DAO
             loaiVD.TrangThai = Convert.ToBoolean(dr["TrangThai"]);
             return loaiVD;
         }
-        
+
+        //public static List<VideoDTO> LayLoaiVideo(string maLoaiVideo)
+        //{
+        //    string query = "SELECT * FROM Video WHERE MaLoaiVideo = @MaLoaiVideo";
+        //    SqlParameter[] param = new SqlParameter[1];
+        //    param[0] = new SqlParameter("@MaLoaiVideo", maLoaiVideo);
+        //    DataTable dtbKetQua = DataProvider.ExecuteSelectQuery(query, param);
+        //    List<VideoDTO> lstSanPham = new List<VideoDTO>();
+        //    foreach (DataRow dr in dtbKetQua.Rows)
+        //    {
+        //        lstSanPham.Add(ConvertToDTO(dr));
+        //    }
+        //    return lstSanPham;
+        //}
+
         public static DataTable LaytatcaLoaiVideo()
         {
             string query = "SELECT * FROM LoaiVideo";

@@ -23,23 +23,26 @@
                         <tr>
                             <td>Mã Video:</td>
                             <td>
-                                <asp:TextBox ID="txtMaVideo" class="form-control" placeholder=" Mã Video" runat="server"></asp:TextBox></td>
+                                <asp:textbox id="txtMaVideo" class="form-control" placeholder=" Mã Video" runat="server"></asp:textbox>
+                            </td>
                         </tr>
                         <tr>
                             <td>Tên Video: </td>
                             <td>
-                                <asp:TextBox ID="txtTenVideo" class="form-control" placeholder=" Tên Video" runat="server"></asp:TextBox></td>
+                                <asp:textbox id="txtTenVideo" class="form-control" placeholder=" Tên Video" runat="server"></asp:textbox>
+                            </td>
                         </tr>
                         <tr>
                             <td>Thông tin: </td>
                             <td>
-                                <asp:TextBox ID="txtThongTin" class="form-control" placeholder=" Thông Tin" runat="server"></asp:TextBox></td>
+                                <asp:textbox id="txtThongTin" class="form-control" placeholder=" Thông Tin" runat="server"></asp:textbox>
+                            </td>
                         </tr>
                         <tr>
                             <td>Mã Loại Video:</td>
                             <td>
 
-                                <asp:DropDownList ID="dropMaLoaiVideo" runat="server">
+                                <asp:dropdownlist id="dropMaLoaiVideo" runat="server">
                                     <asp:ListItem Value="Loai1">Âm Nhạc</asp:ListItem>
                                     <asp:ListItem Value="Loai2">Trò Chơi</asp:ListItem>
                                     <asp:ListItem Value="Loai3">Giải Trí</asp:ListItem>
@@ -47,16 +50,16 @@
                                     <asp:ListItem Value="Loai5">Trẻ Em</asp:ListItem>
                                     <asp:ListItem Value="Loai6">Phim</asp:ListItem>
                                     <asp:ListItem Value="Loai7">Tin Tức</asp:ListItem>
-                                </asp:DropDownList>
+                                </asp:dropdownlist>
                                 <%--<asp:TextBox ID="txtMaLoai" class="form-control" placeholder=" Mã Loại Video" runat="server"></asp:TextBox>--%>
                             </td>
                         </tr>
                         <tr>
-                            <td >Ngày Đăng:</td>
+                            <td>Ngày Đăng:</td>
                             <td>
-                                <asp:TextBox ID="txtNgayDang" class="form-control" placeholder=" Ngày Đăng" runat="server"></asp:TextBox>
+                                <asp:textbox id="txtNgayDang" class="form-control" placeholder=" Ngày Đăng" runat="server"></asp:textbox>
 
-                                
+
                                 <i class="zmdi zmdi-calendar-note input-icon js-btn-calendar"></i>
 
 
@@ -69,13 +72,14 @@
 
 
 
-                                <asp:TextBox ID="txtTaiKhoanDang" class="form-control" placeholder=" Tài Khoản Đăng" runat="server"></asp:TextBox>
+                                <asp:textbox id="txtTaiKhoanDang" class="form-control" placeholder=" Tài Khoản Đăng" runat="server"></asp:textbox>
                             </td>
                         </tr>
                         <tr>
                             <td>Đường Dẫn Video: </td>
                             <td>
-                                <asp:TextBox ID="txtDuongDan" class="form-control" placeholder=" Link Video" runat="server"></asp:TextBox></td>
+                                <asp:textbox id="txtDuongDan" class="form-control" placeholder=" Link Video" runat="server"></asp:textbox>
+                            </td>
                         </tr>
                         <%--<tr>
                             <td>Ảnh Đại Diện:</td>
@@ -85,14 +89,14 @@
                         <tr>
                             <td>Trạng Thái:</td>
                             <td>
-                                <asp:CheckBox ID="chkTrangThai" runat="server" />
+                                <asp:checkbox id="chkTrangThai" runat="server" />
                             </td>
                         </tr>
                         <tr>
                             <td colspan="2">
-                                <asp:Button class="btn btn-success" ID="btnThem" runat="server" Text="Thêm" OnClick="btnThem_Click" />
-                                <asp:Button class=" btn btn-warning" ID="btnSua" runat="server" Text="Sửa" Enabled="false" OnClick="btnSua_Click" />
-                                <asp:Button class="btn btn-danger" ID="btnHuy" runat="server" Text="Hủy bỏ" OnClick="btnHuy_Click" />
+                                <asp:button class="btn btn-success" id="btnThem" runat="server" text="Thêm" onclick="btnThem_Click" />
+                                <asp:button class=" btn btn-warning" id="btnSua" runat="server" text="Sửa" enabled="false" onclick="btnSua_Click" />
+                                <asp:button class="btn btn-danger" id="btnHuy" runat="server" text="Hủy bỏ" onclick="btnHuy_Click" />
                             </td>
                         </tr>
                     </table>
@@ -101,8 +105,13 @@
 
                 <fieldset>
                     <legend>Danh Sách Video</legend>
-                    <asp:GridView class=" table-striped" ID="grvDSVideo" runat="server" AutoGenerateColumns="False" DataKeyNames="MaVideo" AllowSorting="True" AllowCustomPaging="True" OnRowCommand="grvDSVideo_RowCommand">
+                    <asp:gridview class=" table-striped" id="grvDSVideo" runat="server" autogeneratecolumns="False" datakeynames="MaVideo" allowsorting="True" onpageindexchanging="grvDSVideo_PageIndexChanging" allowcustompaging="True" onrowcommand="grvDSVideo_RowCommand">
                         <Columns>
+                            <asp:TemplateField HeaderText="STT">
+                                <ItemTemplate>
+                                    <%#get_stt() %>
+                                    </ItemTemplate>
+                                </asp:TemplateField>
                             <asp:BoundField DataField="MaVideo" HeaderText="Mã Video" ReadOnly="True" SortExpression="MaVideo" />
                             <asp:BoundField DataField="TenVideo" HeaderText="Tên Video" SortExpression="TenVideo" />
                             <asp:BoundField DataField="ThongTin" HeaderText="Thông Tin" SortExpression="ThongTin" />
@@ -117,7 +126,7 @@
                                 </ItemTemplate>
                             </asp:TemplateField>
                         </Columns>
-                    </asp:GridView>
+                    </asp:gridview>
 
 
                 </fieldset>
