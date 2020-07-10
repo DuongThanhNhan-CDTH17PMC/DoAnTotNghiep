@@ -22,6 +22,15 @@ namespace GUI {
         protected global::System.Web.UI.HtmlControls.HtmlForm formhome;
         
         /// <summary>
+        /// btn_loaisp control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_loaisp;
+        
+        /// <summary>
         /// rptVideo control.
         /// </summary>
         /// <remarks>

@@ -33,14 +33,14 @@
 
                             <div class="list-f-sidebar">
                                 <h3>Danh mục</h3>
-                               <%-- <asp:Repeater ID="rptloaiVideo" runat="server" ">
+                                <asp:Repeater ID="rptloaiVideo" runat="server" ">
                                     <ItemTemplate>
                                         <ul class="bg-info m-2 ">
                                             <asp:Button CssClass="m-1  rounded-right text-success " ID="btn_loaisp" Width="230" runat="server" CommandArgument='<%#Eval("MaLoaiVideo")%>' Text='<%#Eval("TenLoaiVideo") %>' />
                                         </ul>
                                     </ItemTemplate>
-                                </asp:Repeater>--%>
-                                <ul>
+                                </asp:Repeater>
+                               <%-- <ul>
                                     <li>
                                         <a href="#">
                                             <i class="fa fa-desktop" aria-hidden="true"></i>Thịnh Hành
@@ -76,7 +76,7 @@
                                             <i class="fa fa-gamepad" aria-hidden="true"></i>Trò Chơi
                                         </a>
                                     </li>
-                                </ul>
+                                </ul>--%>
                             </div>
                             <div class="list-f-sidebar">
                                 <h3>------------</h3>

@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATN_2020\\DoAn_Website_Video\\DTO\\DTO.csproj",
+      "projectUniqueName": "D:\\DATN_2020\\DoAnTotNghiep\\DTO\\DTO.csproj",
       "projectName": "DTO",
-      "projectPath": "D:\\DATN_2020\\DoAn_Website_Video\\DTO\\DTO.csproj",
+      "projectPath": "D:\\DATN_2020\\DoAnTotNghiep\\DTO\\DTO.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\DATN_2020\\DoAn_Website_Video\\DTO\\obj\\",
+      "outputPath": "D:\\DATN_2020\\DoAnTotNghiep\\DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

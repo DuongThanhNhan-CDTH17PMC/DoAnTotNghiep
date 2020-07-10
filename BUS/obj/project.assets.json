@@ -219,11 +219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATN_2020\\DoAn_Website_Video\\BUS\\BUS.csproj",
+      "projectUniqueName": "D:\\DATN_2020\\DoAnTotNghiep\\BUS\\BUS.csproj",
       "projectName": "BUS",
-      "projectPath": "D:\\DATN_2020\\DoAn_Website_Video\\BUS\\BUS.csproj",
+      "projectPath": "D:\\DATN_2020\\DoAnTotNghiep\\BUS\\BUS.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\DATN_2020\\DoAn_Website_Video\\BUS\\obj\\",
+      "outputPath": "D:\\DATN_2020\\DoAnTotNghiep\\BUS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -242,11 +242,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\DATN_2020\\DoAn_Website_Video\\DAO\\DAO.csproj": {
-              "projectPath": "D:\\DATN_2020\\DoAn_Website_Video\\DAO\\DAO.csproj"
+            "D:\\DATN_2020\\DoAnTotNghiep\\DAO\\DAO.csproj": {
+              "projectPath": "D:\\DATN_2020\\DoAnTotNghiep\\DAO\\DAO.csproj"
             },
-            "D:\\DATN_2020\\DoAn_Website_Video\\DTO\\DTO.csproj": {
-              "projectPath": "D:\\DATN_2020\\DoAn_Website_Video\\DTO\\DTO.csproj"
+            "D:\\DATN_2020\\DoAnTotNghiep\\DTO\\DTO.csproj": {
+              "projectPath": "D:\\DATN_2020\\DoAnTotNghiep\\DTO\\DTO.csproj"
             }
           }
         }
