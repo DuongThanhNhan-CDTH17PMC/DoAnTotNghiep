@@ -26,3 +26,17 @@ D:\DATN_2020\DoAn_Website_Video\BUS\obj\Debug\netstandard2.0\BUS.AssemblyInfo.cs
 D:\DATN_2020\DoAn_Website_Video\BUS\obj\Debug\netstandard2.0\BUS.csproj.CopyComplete
 D:\DATN_2020\DoAn_Website_Video\BUS\obj\Debug\netstandard2.0\BUS.dll
 D:\DATN_2020\DoAn_Website_Video\BUS\obj\Debug\netstandard2.0\BUS.pdb
+D:\DATN_2020\DoAnTotNghiep\BUS\bin\Debug\netstandard2.0\BUS.deps.json
+D:\DATN_2020\DoAnTotNghiep\BUS\bin\Debug\netstandard2.0\BUS.dll
+D:\DATN_2020\DoAnTotNghiep\BUS\bin\Debug\netstandard2.0\BUS.pdb
+D:\DATN_2020\DoAnTotNghiep\BUS\bin\Debug\netstandard2.0\DAO.dll
+D:\DATN_2020\DoAnTotNghiep\BUS\bin\Debug\netstandard2.0\DTO.dll
+D:\DATN_2020\DoAnTotNghiep\BUS\bin\Debug\netstandard2.0\DAO.pdb
+D:\DATN_2020\DoAnTotNghiep\BUS\bin\Debug\netstandard2.0\DTO.pdb
+D:\DATN_2020\DoAnTotNghiep\BUS\obj\Debug\netstandard2.0\BUS.csprojAssemblyReference.cache
+D:\DATN_2020\DoAnTotNghiep\BUS\obj\Debug\netstandard2.0\BUS.csproj.CoreCompileInputs.cache
+D:\DATN_2020\DoAnTotNghiep\BUS\obj\Debug\netstandard2.0\BUS.AssemblyInfoInputs.cache
+D:\DATN_2020\DoAnTotNghiep\BUS\obj\Debug\netstandard2.0\BUS.AssemblyInfo.cs
+D:\DATN_2020\DoAnTotNghiep\BUS\obj\Debug\netstandard2.0\BUS.csproj.CopyComplete
+D:\DATN_2020\DoAnTotNghiep\BUS\obj\Debug\netstandard2.0\BUS.dll
+D:\DATN_2020\DoAnTotNghiep\BUS\obj\Debug\netstandard2.0\BUS.pdb

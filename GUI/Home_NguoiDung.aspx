@@ -33,6 +33,7 @@
 
                             <div class="list-f-sidebar">
                                 <h3>Danh mục</h3>
+                              <%--  Danh sách loại video--%>
                                 <asp:Repeater ID="rptloaiVideo" runat="server" ">
                                     <ItemTemplate>
                                         <ul class="bg-info m-2 ">

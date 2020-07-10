@@ -13,7 +13,10 @@ namespace GUI
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if(!Page.IsPostBack)
+            {
 
+            }
         }
         protected void btn_login_Click(object sender, EventArgs e)
         {
@@ -33,7 +36,7 @@ namespace GUI
                     }
                     else
                     {
-                        Response.Redirect("Home.aspx");
+                        Response.Redirect("Home_NguoiDung.aspx");
                     }
 
                 }
