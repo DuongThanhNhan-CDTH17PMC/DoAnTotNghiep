@@ -1,5 +1,4 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/TrangChu.Master" AutoEventWireup="true" CodeBehind="Home_NguoiDung.aspx.cs" Inherits="GUI.Home_NguoiDung1" %>
-
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -33,15 +32,14 @@
 
                             <div class="list-f-sidebar">
                                 <h3>Danh mục</h3>
-                              <%--  Danh sách loại video--%>
-                                <asp:Repeater ID="rptloaiVideo" runat="server" ">
+                                <asp:Repeater ID="rptloaiVideo" runat="server" >
                                     <ItemTemplate>
-                                        <ul class="bg-info m-2 ">
-                                            <asp:Button CssClass="m-1  rounded-right text-success " ID="btn_loaisp" Width="230" runat="server" CommandArgument='<%#Eval("MaLoaiVideo")%>' Text='<%#Eval("TenLoaiVideo") %>' />
+                                        <ul>
+                                            <asp:Button  aria-hidden="true" ID="btn_loaisp"  runat="server" CommandArgument='<%#Eval("MaLoaiVideo")%>' Text='<%#Eval("TenLoaiVideo") %>' />
                                         </ul>
                                     </ItemTemplate>
                                 </asp:Repeater>
-                               <%-- <ul>
+                                <%--<ul>
                                     <li>
                                         <a href="#">
                                             <i class="fa fa-desktop" aria-hidden="true"></i>Thịnh Hành

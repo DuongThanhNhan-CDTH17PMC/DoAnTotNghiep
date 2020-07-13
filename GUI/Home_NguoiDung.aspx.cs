@@ -16,18 +16,11 @@ namespace GUI
         {
             if(!Page.IsPostBack)
             {
-               
-                rptVideo.DataSource = VideoBUS.LayDSVideo();
-                rptVideo.DataBind();
+                rptloaiVideo.DataSource = LoaiVideoBUS.LayDSLoaiVideo();
+                rptloaiVideo.DataBind();
+
             }
 
         }
-
-        //protected void rptloaiVideo_ItemCommand(object source, RepeaterCommandEventArgs e)
-        //{
-        //    String masp = e.CommandArgument.ToString();
-        //    rptloaiVideo.DataSource = LoaiVideoBUS.LayDSLoaiVideo(maLoaiVideo);
-        //    rptloaiVideo.DataBind();
-        //}
     }
 }

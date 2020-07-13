@@ -19,7 +19,6 @@ D:\DATN_2020\DoAn_Website_Video\DTO\obj\Debug\netstandard2.0\DTO.pdb
 D:\DATN_2020\DoAnTotNghiep\DTO\bin\Debug\netstandard2.0\DTO.deps.json
 D:\DATN_2020\DoAnTotNghiep\DTO\bin\Debug\netstandard2.0\DTO.dll
 D:\DATN_2020\DoAnTotNghiep\DTO\bin\Debug\netstandard2.0\DTO.pdb
-D:\DATN_2020\DoAnTotNghiep\DTO\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache
 D:\DATN_2020\DoAnTotNghiep\DTO\obj\Debug\netstandard2.0\DTO.csproj.CoreCompileInputs.cache
 D:\DATN_2020\DoAnTotNghiep\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
 D:\DATN_2020\DoAnTotNghiep\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
