@@ -25,3 +25,4 @@ D:\DATN_2020\DoAnTotNghiep\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.c
 D:\DATN_2020\DoAnTotNghiep\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
 D:\DATN_2020\DoAnTotNghiep\DTO\obj\Debug\netstandard2.0\DTO.dll
 D:\DATN_2020\DoAnTotNghiep\DTO\obj\Debug\netstandard2.0\DTO.pdb
+D:\DATN_2020\DoAnTotNghiep\DTO\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache

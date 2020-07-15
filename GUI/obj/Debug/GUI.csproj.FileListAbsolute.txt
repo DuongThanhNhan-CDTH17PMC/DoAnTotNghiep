@@ -109,6 +109,7 @@ D:\DATN 2020\DoAn_Website_Video\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
 D:\DATN 2020\DoAn_Website_Video\GUI\obj\Debug\GUI.csproj.CopyComplete
 D:\DATN 2020\DoAn_Website_Video\GUI\obj\Debug\GUI.dll
 D:\DATN 2020\DoAn_Website_Video\GUI\obj\Debug\GUI.pdb
+<<<<<<< Updated upstream
 D:\DATN_2020\DoAn_Website_Video\GUI\bin\GUI.dll.config
 D:\DATN_2020\DoAn_Website_Video\GUI\bin\GUI.dll
 D:\DATN_2020\DoAn_Website_Video\GUI\bin\GUI.pdb
@@ -267,6 +268,69 @@ D:\DATN_2020\DoAn_Website_Video\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
 D:\DATN_2020\DoAn_Website_Video\GUI\obj\Debug\GUI.csproj.CopyComplete
 D:\DATN_2020\DoAn_Website_Video\GUI\obj\Debug\GUI.dll
 D:\DATN_2020\DoAn_Website_Video\GUI\obj\Debug\GUI.pdb
+=======
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\GUI.dll.config
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\GUI.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\GUI.pdb
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\csc.exe
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\csc.exe.config
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\csc.rsp
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\csi.exe
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\csi.exe.config
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\csi.rsp
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.AppContext.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Console.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.IO.Compression.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.IO.Pipes.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Security.AccessControl.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Security.Claims.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.ValueTuple.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Xml.XPath.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\vbc.exe
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\vbc.exe.config
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\vbc.rsp
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\VBCSCompiler.exe
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\BUS.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\DTO.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\DAO.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\BUS.pdb
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\DTO.pdb
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAn_TN\DoAn_TotNghiep\GUI\bin\DAO.pdb
+D:\DoAn_TN\DoAn_TotNghiep\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\DoAn_TN\DoAn_TotNghiep\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DoAn_TN\DoAn_TotNghiep\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\DoAn_TN\DoAn_TotNghiep\GUI\obj\Debug\GUI.dll
+D:\DoAn_TN\DoAn_TotNghiep\GUI\obj\Debug\GUI.pdb
+>>>>>>> Stashed changes
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\GUI.dll.config
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\GUI.dll
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\GUI.pdb
@@ -316,6 +380,7 @@ D:\DATN_2020\DoAnTotNghiep\GUI\bin\roslyn\vbc.exe.config
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\roslyn\vbc.rsp
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\roslyn\VBCSCompiler.exe
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\roslyn\VBCSCompiler.exe.config
+<<<<<<< Updated upstream
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\Microsoft.Win32.Primitives.dll
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\netstandard.dll
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\System.AppContext.dll
@@ -419,6 +484,13 @@ D:\DATN_2020\DoAnTotNghiep\GUI\bin\DAO.dll
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\BUS.pdb
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\DTO.pdb
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+=======
+D:\DATN_2020\DoAnTotNghiep\GUI\bin\BUS.dll
+D:\DATN_2020\DoAnTotNghiep\GUI\bin\DTO.dll
+D:\DATN_2020\DoAnTotNghiep\GUI\bin\DAO.dll
+D:\DATN_2020\DoAnTotNghiep\GUI\bin\BUS.pdb
+D:\DATN_2020\DoAnTotNghiep\GUI\bin\DTO.pdb
+>>>>>>> Stashed changes
 D:\DATN_2020\DoAnTotNghiep\GUI\bin\DAO.pdb
 D:\DATN_2020\DoAnTotNghiep\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
 D:\DATN_2020\DoAnTotNghiep\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
